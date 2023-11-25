@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Destini
+//  Tipsy
 //
-//  Created by Victor on 24.11.2023
+//  Created by Victor  on 24.11.2023
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  Story.swift
 //  Destini
 //
-//  Created by Victor on 11.11.2023.
+//  Created by Victor on 24.11.2023
 //
 
 import Foundation
