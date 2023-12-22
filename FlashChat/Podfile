@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '15.0'
+use_frameworks!
+target 'FlashChat' do
+	pod 'SnapKit', '~> 5.0.0' 
+	pod 'Firebase/Auth'
+	pod 'Firebase/Firestore'
+end
